@@ -1,14 +1,10 @@
 
 # Hi there 🖖, I'm Omar
 
----
-
 ## 📚 My Background
 
 - Bachelor's Degree in **Physics** ⚛️ @ [Università degli studi di Trieste]([Home | Università degli Studi di Trieste](https://portale.units.it/it)), Italy 🇮🇹.
 - Currently pursuing a Master's in **Data Science and Artificial Intelligence** 🤖 @ [University of Trieste](https://x.com/UniTrieste), Italy 🇮🇹.
-
----
 
 ## 💻 Languages and Tools
 
